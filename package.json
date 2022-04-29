@@ -1,0 +1,29 @@
+{
+  "name": "spider_test_driven_dev",
+  "version": "1.0.0",
+  "description": "test driven dev example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheldavrdz/spider_test_driven_dev.git"
+  },
+  "keywords": [
+    "test",
+    "driven",
+    "development",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micheldavrdz/spider_test_driven_dev/issues"
+  },
+  "homepage": "https://github.com/micheldavrdz/spider_test_driven_dev#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
+}
